@@ -1,3 +1,5 @@
+document.pdf
+
 #ignore report file and other Latex files
 *.aux
 *.glo
